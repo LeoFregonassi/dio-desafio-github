@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio de Projeto Git/Github
+# Repositório do Desafio de Projeto sobre Git/Github da DIO
+
+Desafio de Projeto da DIO sobre criação e sincronização de repositorios Git no GitHub
